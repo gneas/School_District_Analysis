@@ -7,9 +7,10 @@ The purpose of this challenge project was to provide an analysis of school distr
 ## Results
 - District Summary Changes:
 ![District Summary Comparison](/Resources/District_Summary_Comparison.png "District Summary Comparison")
-- School Summary Changes:
+- Thomas High School Summary Changes:
 ![School Summary Comparison](/Resources/School_Summary_Comparison.png "School Summary Comparison")
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- Thomas High School Performance and Other Schools:
+![Top Schools Comparison](/Resources/Top_Schools_Comparison.png "Top Schools Comparison")
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
   - Scores by school spending
