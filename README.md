@@ -7,9 +7,9 @@ The purpose of this challenge project was to provide an analysis of school distr
 ## Results
 - District Summary Changes: From a district standpoint there was a minor reduction in the average math score and passing percentages illustrated in the comparison below.
 ![District Summary Comparison](/Resources/District_Summary_Comparison.png "District Summary Comparison")
-- Thomas High School Summary Changes:
+- Thomas High School Summary Changes: The district changes above correspond with the slight drops at Thomas High School due to the removal of results with the 9th graders there.
 ![School Summary Comparison](/Resources/School_Summary_Comparison.png "School Summary Comparison")
-- Thomas High School Performance and Other Schools:
+- Thomas High School Performance and Other Schools: Despite the adjustments, Thomas High School maintained their 2nd place status within the Top Performing Schools of the district as seen below.
 ![Top Schools Comparison](/Resources/Top_Schools_Comparison.png "Top Schools Comparison")
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
