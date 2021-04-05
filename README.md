@@ -2,7 +2,7 @@
 Analysis of school district data using Jupyter Notebooks, Pandas, and Python.
 
 ## Project Overview
-The purpose of this challenge project was to provide an analysis of school district data, but also to adjust the analysis given the discovery of academic dishonesty discovered within the 9th grade class at Thomas High School. 
+The purpose of this challenge project was to provide an analysis of school district data, but also to adjust the analysis given the discovery of academic dishonesty within the 9th grade class at Thomas High School. 
 
 ## Results
 - District Summary Changes: From a district standpoint there was a minor reduction in the average math score and passing percentages illustrated in the comparison below.
